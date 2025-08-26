@@ -34,7 +34,7 @@ Attackers can place hidden buttons, steal customer actions, and damage your repu
 
 <div class="iframe-box">
   <div class="overlay">⚠ Malicious Overlay Active</div>
-  <iframe src="https://("https://www.olapalabra.com")></iframe>
+  <iframe src=("https://www.olapalabra.com")></iframe>
 </div>
 
 <p><strong>Risk:</strong> Your store can be hijacked and misused without your knowledge.<br>
